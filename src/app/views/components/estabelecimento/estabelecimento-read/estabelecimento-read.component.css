@@ -1,0 +1,46 @@
+.header {
+    text-align: center;
+    font-size: 2rem;
+    background: rgb(255, 255, 255);
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, rgba(246, 246, 246, 0.9037990196078431) 45%, rgba(246, 246, 246, 0.9037990196078431) 55%, rgba(255, 255, 255, 0) 100%);
+}
+
+.container2 {
+    width: auto;
+    margin-right: 3.5rem;
+    margin-left: 3.5rem;
+}
+
+table {
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.mat-form-field {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    width: 100%;
+    align-items: center;
+    margin-left: 3.5rem;
+}
+
+td,
+th {
+    width: auto;
+}
+
+.botao {
+    position: fixed;
+    top: 13%;
+    right: 3%;
+    margin-left: 5%;
+    width: 20rem;
+    background: rgb(19, 156, 0);
+    color: white;
+}
+
+.icone {
+    padding-bottom: 0.2rem;
+}

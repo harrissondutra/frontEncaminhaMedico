@@ -1,0 +1,31 @@
+.mat-card {
+    width: 80%;
+    height: 50%;
+    margin-top: 1rem auto 0 auto;
+}
+
+.title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.subtitle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 25px;
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 10%;
+}
+
+.img {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}

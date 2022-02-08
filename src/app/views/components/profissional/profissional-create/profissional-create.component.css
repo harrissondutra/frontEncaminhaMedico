@@ -1,0 +1,33 @@
+.form {
+    width: 40%;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 4rem;
+}
+
+.full-width {
+    width: 100%;
+}
+
+button {
+    width: 30%;
+    margin-bottom: .5rem;
+    margin-right: 5px;
+    position: relative;
+    left: 49%;
+}
+
+.criar {
+    background: rgb(19, 156, 0);
+    color: white;
+}
+
+.cancelar {
+    width: 20%;
+    background-color: rgb(199, 41, 41);
+    color: white;
+}
